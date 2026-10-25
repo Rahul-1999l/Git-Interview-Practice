@@ -1,1 +1,2 @@
-print('hello git,this is version 2')
+print("Hello from Developer A")
+print("We are learning Git collaboration")
